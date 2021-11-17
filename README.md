@@ -1,4 +1,4 @@
-# sharepointChangeColumnGroupingOrder
+# Sharepoint Change Column Grouping Order
 Change the order of Column Grouping in a SharePoint List
 ![Screen Shot 2021-11-17 at 12 38 27 PM](https://user-images.githubusercontent.com/33647356/142253347-dd9dd39d-c8f8-428a-ab09-c6c970de6715.png)
 
